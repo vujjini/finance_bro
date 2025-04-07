@@ -1,0 +1,1 @@
+# we gotta take the text and clean it up, and then add it to a FAISS vector store database

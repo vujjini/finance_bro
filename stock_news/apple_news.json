@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "found": 88014,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "073cf8f9-a03e-47b0-9cb9-ae3bddb91283",
+            "title": "Apple Takes the Biggest Hit of the \"Magnificent Seven\" in Response to Trump Tariffs",
+            "description": "Tariffs will be the focus, but Apple's issues predate the shocking tariff announcement on April 2.",
+            "keywords": "Apple, Donald Trump, Trump tariffs",
+            "snippet": "The sudden and sharp stock market sell-off following the Trump administration's tariff announcements on April 2 is hitting the world's largest technology compan...",
+            "url": "https://finance.yahoo.com/news/apple-takes-biggest-hit-magnificent-164500958.html",
+            "image_url": "https://media.zenfs.com/en/motleyfool.com/39c4a5283599ec7470950f2bbb78cbc3",
+            "language": "en",
+            "published_at": "2025-04-07T16:45:00.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.492126,
+                    "sentiment_score": 0.40015,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> (<em>NASDAQ</em>: <em>AAP[+332 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "How might tariffs impact <em>Apple</em> [+323 characters]",
+                            "sentiment": 0.7117,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "If the announced reciprocal rates go int[+201 characters]",
+                            "sentiment": 0.4754,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Here are the announced reciprocal tariff[+267 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> will either have to eat s[+246 characters]",
+                            "sentiment": -0.2141,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "There is a strong argument that <em>Appl[+312 characters]",
+                            "sentiment": 0.8625,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Plus, <em>Apple</em> stock entered the y[+171 characters]",
+                            "sentiment": 0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> Takes the Biggest Hit of the \"Magnificent Seven\" in Response to Trump Tariffs",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "af2fbf00-90bd-4423-b936-8c337c2f3972",
+            "title": "Trump\u2019s High-Stakes Tariff Gamble Created A Jobs And Economy Crisis",
+            "description": "President Donald Trump's declaration of",
+            "keywords": "",
+            "snippet": "WASHINGTON, DC - APRIL 02: U.S. President Donald Trump holds up a chart while speaking during a ... More \u201cMake America Wealthy Again\u201d trade announcement eve...",
+            "url": "https://www.forbes.com/sites/jackkelly/2025/04/07/trumps-high-stakes-tariff-gamble-created-a-jobs-and-economy-crisis/",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67f3fdb6b60b30a1342be406/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "language": "en",
+            "published_at": "2025-04-07T16:36:31.000000Z",
+            "source": "forbes.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 6.750869,
+                    "sentiment_score": -0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "Industries tied to global supply chains [+274 characters]",
+                            "sentiment": -0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "fd165756-cbea-4421-bd3d-ff4cdb745ea5",
+            "title": "Wall Street Lunch: Wild Swings, Volatility Spike Up Investor Anxiety (undefined:SP500)",
+            "description": "Our top story so far, the stock market has gone from edgy to jumpy to as nervous as a long-tailed cat in a room full of rocking chairs \u2013 if you\u2019ll forgive the technical terms.",
+            "keywords": "",
+            "snippet": "Michael M. Santiago/Getty Images News\n\nListen below or on the go on Apple Podcasts and Spotify\n\nInvestors on a knife-edge as one fake headline prompts huge inde...",
+            "url": "https://seekingalpha.com/article/4773499-wall-street-lunch-wild-swings-volatility-spike-up-investor-anxiety",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209012391/image_2209012391.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-04-07T16:33:00.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.216143,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "Santiago/Getty Images News\n\nListen below[+323 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}
