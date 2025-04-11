@@ -209,22 +209,83 @@ def get_analysis(company_name, stock_symbol, dest_file):
     # For each selected attribute, provide a brief explanation of why it is useful and how it relates to the news.
 
     # Only use attributes from the list. Do not invent any new ones. """ })
+    # response = graph.invoke({
+    #     "question": f"""
+    # You are a financial analyst tasked with evaluating **{company_name} ({stock_symbol})** stock.
+
+    # Based on the summary of recent news articles provided about the company, as well as key quantitative financial metrics for the stock from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}.
+
+    # **Task:**  
+    # Using both the qualitative information (news content) and the quantitative data (stock performance metrics), provide a comprehensive analysis of the stock.
+
+    # Your analysis should include:
+    # 1. **Qualitative Insights**: Interpret the market sentiment, company events, and any external factors mentioned in the news.
+    # 2. **Quantitative Insights**: Assess price trends, trading volume, volatility, or any other relevant metrics from the financial data.
+    # 3. **Risk & Recommendation**: Summarize whether the stock appears to be a safe or risky investment in the current market climate, and whether it is suitable for short-term or long-term investors.
+
+    # **Do not hallucinate or fabricate data. Only reason based on the provided information.**
+    # """ })
+
+#     
     response = graph.invoke({
         "question": f"""
-    You are a financial analyst tasked with evaluating **{company_name} ({stock_symbol})** stock.
+    You are a financial advisor analyzing the stock **{company_name} ({stock_symbol})**, which is part of a user's investment portfolio.
 
-    Based on the summary of recent news articles provided about the company, as well as key quantitative financial metrics for the stock from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}.
+    You are provided with:
+    - Recent news articles about the stock
+    - Quantitative stock performance data from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}
+    - The user's portfolio profile and asset allocation (see below)
 
-    **Task:**  
-    Using both the qualitative information (news content) and the quantitative data (stock performance metrics), provide a comprehensive analysis of the stock.
+    ---
 
-    Your analysis should include:
-    1. **Qualitative Insights**: Interpret the market sentiment, company events, and any external factors mentioned in the news.
-    2. **Quantitative Insights**: Assess price trends, trading volume, volatility, or any other relevant metrics from the financial data.
-    3. **Risk & Recommendation**: Summarize whether the stock appears to be a safe or risky investment in the current market climate, and whether it is suitable for short-term or long-term investors.
+    User Profile:
 
-    **Do not hallucinate or fabricate data. Only reason based on the provided information.**
-    """ })
+    - Risk Tolerance: Moderate to Aggressive  
+    - Investment Horizon: Long-term (3-5+ years)  
+    - Primary Goal: Growth-focused  
+    - Liquidity Preference: Low (5% in cash)
+
+    ---
+
+    Portfolio Composition:
+
+    | Ticker | Company                         | Weight (%) | Sector         |
+    |--------|----------------------------------|------------|----------------|
+    | AAPL   | Apple Inc.                      | 25         | Technology     |
+    | MSFT   | Microsoft Corp.                 | 20         | Technology     |
+    | TTWO   | Take-Two Interactive Software   | 20         | Gaming         |
+    | NVDA   | Nvidia                          | 25         | Technology     |
+    | TSLA   | Tesla Inc.                      | 10         | Consumer/Auto  |
+
+    ---
+
+    Task:
+
+    Using all the information provided, deliver a structured analysis broken into the following four sections:
+
+    1. Qualitative Analysis  
+    - Summarize sentiment, events, or outlook from recent news articles.
+    - Mention analyst opinions, product announcements, or risks.
+
+    2. Quantitative Analysis  
+    - Discuss the recent trend of stock price, volume, and volatility.
+    - Mention if it's rising, falling, or fluctuating, with any key data points or patterns.
+
+    3. User Portfolio Fit  
+    - Assess how this stock fits into the current portfolio (sector overlap, diversification).
+    - Does it increase or reduce risk?
+    - Is its weighting appropriate?
+
+    4. Final Recommendation  
+    - Based on all above, should the user hold, trim, increase, or remove this stock?
+    - Justify clearly with a balance of qualitative, quantitative, and portfolio-level reasoning.
+
+    Do not fabricate data. Only use the information in the context provided. Format your answer clearly under each section heading.
+    """
+    })
+
+
+
 
     res = response["answer"]
 
@@ -260,7 +321,7 @@ def get_analysis(company_name, stock_symbol, dest_file):
     # print("\n\n")
     # print(req_aggs)
 
-print(get_analysis("Palantir", "PLTR", "palantir_news"))
+print(get_analysis("TAKE-TWO INTERACTIVE SOFTWARE", "TTWO", "take_two_news"))
 
 
 

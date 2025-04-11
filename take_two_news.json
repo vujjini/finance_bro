@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "found": 1514,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "26dacb54-0c0d-446d-b413-eb6817803a96",
+            "title": "Take-Two Interactive Software (TTWO): Among the Best Gaming Stocks to Invest In According to Billionaires",
+            "description": "We recently compiled a list of the 10 Best Gaming Stocks to Invest In According to Billionaires. In this article, we are going to take a look at where Take-Two Interactive Software, Inc.",
+            "keywords": "",
+            "snippet": "We recently compiled a list of the 10 Best Gaming Stocks to Invest In According to Billionaires. In this article, we are going to take a look at where Take-Two ...",
+            "url": "https://www.insidermonkey.com/blog/take-two-interactive-software-ttwo-among-the-best-gaming-stocks-to-invest-in-according-to-billionaires-1496837/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/21151908/TTWO-insidermonkey-1695323946545.jpg",
+            "language": "en",
+            "published_at": "2025-03-29T22:21:29.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TTWO",
+                    "name": "Take-Two Interactive Software, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 126.8593,
+                    "sentiment_score": 0.60982,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+337 characters]",
+                            "sentiment": 0.7906,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Take</em>-<em>Two</em> <em>Interacti[+365 characters]",
+                            "sentiment": 0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Take</em>-<em>Two</em> <em>Interacti[+358 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Notably, <em>Take</em>-<em>Two</em> <em>[+280 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Take</em>-<em>Two</em> <em>Interactive</em> <em>Software</em> (TTWO): Among the Best Gaming Stocks to Invest In According to Billionaires",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "d484c0c3-b0d7-4302-beac-db10aef89d95",
+            "title": "Women We Admire Announces Top 50 Women Leaders of San Francisco for 2025",
+            "description": "/PRNewswire-PRWeb/ -- Women We Admire is pleased to announce The Top 50 Women Leaders of San Francisco for 2025. Beyond the Golden Gate Bridge and cable cars,...",
+            "keywords": "Women We Admire",
+            "snippet": "Women We Admire is pleased to announce The Top 50 Women Leaders of San Francisco for 2025\n\nNEW YORK, March 27, 2025 /PRNewswire-PRWeb/ -- Women We Admire is ple...",
+            "url": "https://www.prweb.com/releases/women-we-admire-announces-top-50-women-leaders-of-san-francisco-for-2025-302411595.html",
+            "image_url": "https://www.prweb.com/content/dam/cision/icons/favicon.png",
+            "language": "en",
+            "published_at": "2025-03-27T15:30:00.000000Z",
+            "source": "prweb.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TTWO",
+                    "name": "Take-Two Interactive Software, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 33.0978,
+                    "sentiment_score": 0.29295,
+                    "highlights": [
+                        {
+                            "highlight": "Harvey (Achievers), Christine Park (Pant[+339 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Interactive</em> <em>Software</em>, [+340 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "e056bd01-4ced-4672-816b-b023a807d866",
+            "title": "10 Best Stocks to Invest in for the Next 10 Years",
+            "description": "As per Lukas Brandl-Cheng, Investment Strategy Analyst at Vanguard Europe, the US equities were driven by healthy earnings growth and increasing P/E ratios in recent years.",
+            "keywords": "",
+            "snippet": "In this article, we will discuss the 10 Best Stocks to Invest in for the Next 10 Years.\n\nAs per Lukas Brandl-Cheng, Investment Strategy Analyst at Vanguard Euro...",
+            "url": "https://www.insidermonkey.com/blog/10-best-stocks-to-invest-in-for-the-next-10-years-1478540/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/12/14040458/ETX-insidermonkey-1702544696160.jpg",
+            "language": "en",
+            "published_at": "2025-03-11T16:10:23.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TTWO",
+                    "name": "Take-Two Interactive Software, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 60.255455,
+                    "sentiment_score": 0.75556,
+                    "highlights": [
+                        {
+                            "highlight": "The result is that the quality of games [+356 characters]",
+                            "sentiment": 0.9081,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NASDAQ:TTWO</em>) develops, publish[+225 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As per the analyst, the combination of i[+253 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Take</em>-<em>Two</em> <em>Interacti[+363 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Therefore, <em>Take</em>-<em>Two</em> <e[+298 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

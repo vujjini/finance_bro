@@ -1,6 +1,6 @@
 {
     "meta": {
-        "found": 71583,
+        "found": 71584,
         "returned": 3,
         "limit": 3,
         "page": 1
@@ -38,113 +38,7 @@
                     ]
                 }
             ],
-            "similar": [
-                {
-                    "uuid": "30d43fb4-9fe6-4bd8-9475-8ba5154db2ea",
-                    "title": "Midday Market Update: Wall Street Wobbles Amid China Tariff Retaliation and Bank Earnings",
-                    "description": "As of midday on Friday, April 11, 2025, major U.S. stock indexes are trading lower amid escalating trade tensions between the United States and China. The Dow",
-                    "keywords": "",
-                    "snippet": "Market Indexes Dip as Trade Tensions Escalate\n\nAs of midday on Friday, April 11, 2025, major U.S. stock indexes are trading lower amid escalating trade tensions...",
-                    "url": "https://thestockmarketwatch.com/stock-market-news/midday-market-update-wall-street-wobbles-amid-china-tariff-retaliation-and-bank-earnings/49253/",
-                    "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
-                    "language": "en",
-                    "published_at": "2025-04-11T15:29:02.000000Z",
-                    "source": "thestockmarketwatch.com",
-                    "relevance_score": null,
-                    "entities": [
-                        {
-                            "symbol": "AAPL",
-                            "name": "Apple Inc.",
-                            "exchange": null,
-                            "exchange_long": null,
-                            "country": "us",
-                            "type": "equity",
-                            "industry": "Technology",
-                            "match_score": 9.374495,
-                            "sentiment_score": 0.2263,
-                            "highlights": [
-                                {
-                                    "highlight": "Other tech giants are showing mixed resu[+287 characters]",
-                                    "sentiment": 0.2263,
-                                    "highlighted_in": "main_text"
-                                }
-                            ]
-                        },
-                        {
-                            "symbol": "GOOGL",
-                            "name": "Alphabet Inc.",
-                            "exchange": null,
-                            "exchange_long": null,
-                            "country": "us",
-                            "type": "equity",
-                            "industry": "Communication Services",
-                            "match_score": 11.039579,
-                            "sentiment_score": 0.2263,
-                            "highlights": [
-                                {
-                                    "highlight": "Other tech giants are showing mixed resu[+287 characters]",
-                                    "sentiment": 0.2263,
-                                    "highlighted_in": "main_text"
-                                }
-                            ]
-                        },
-                        {
-                            "symbol": "NVDA",
-                            "name": "NVIDIA Corporation",
-                            "exchange": null,
-                            "exchange_long": null,
-                            "country": "us",
-                            "type": "equity",
-                            "industry": "Technology",
-                            "match_score": 10.439398,
-                            "sentiment_score": -0.5106,
-                            "highlights": [
-                                {
-                                    "highlight": "<em>Nvidia</em> (NVDA) is up 1.7%, rebou[+253 characters]",
-                                    "sentiment": -0.5106,
-                                    "highlighted_in": "main_text"
-                                }
-                            ]
-                        },
-                        {
-                            "symbol": "MSFT",
-                            "name": "Microsoft Corporation",
-                            "exchange": null,
-                            "exchange_long": null,
-                            "country": "us",
-                            "type": "equity",
-                            "industry": "Technology",
-                            "match_score": 9.590323,
-                            "sentiment_score": 0.2263,
-                            "highlights": [
-                                {
-                                    "highlight": "Other tech giants are showing mixed resu[+287 characters]",
-                                    "sentiment": 0.2263,
-                                    "highlighted_in": "main_text"
-                                }
-                            ]
-                        },
-                        {
-                            "symbol": "TSLA",
-                            "name": "Tesla, Inc.",
-                            "exchange": null,
-                            "exchange_long": null,
-                            "country": "us",
-                            "type": "equity",
-                            "industry": "Consumer Cyclical",
-                            "match_score": 12.117483,
-                            "sentiment_score": 0.2263,
-                            "highlights": [
-                                {
-                                    "highlight": "Other tech giants are showing mixed resu[+296 characters]",
-                                    "sentiment": 0.2263,
-                                    "highlighted_in": "main_text"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+            "similar": []
         },
         {
             "uuid": "f95f2e03-7fc3-4904-9cd6-b9f738acbe76",
