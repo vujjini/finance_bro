@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "found": 4914426,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f977eddc-a51a-4540-900c-15211edfdece",
+            "title": "Stock market holiday 2025: Indian markets closed for Mahavir Jayanti",
+            "description": "Indian Stock market holiday for Mahavir Jayanti 2025. Sensex, Nifty end lower on Wednesday. Asian markets react to Trump\u2019s 90-day pause on tariffs.",
+            "keywords": "Indian Stock market, Mahavir Jayanti, Trump\u2019s 90-day pause on tariffs., Sensex, Nifty, Asian markets, Trump, Stock market",
+            "snippet": "Equity, currency and debt markets will be closed today, April 10, on account of Shri Mahavir Jayanti.\n\nTrading will take place on Friday, April 11, 2025. Howeve...",
+            "url": "https://www.thehindubusinessline.com/markets/indian-markets-closed-for-mahavir-jayanti/article69434073.ece",
+            "image_url": "https://bl-i.thgim.com/public/incoming/p7oman/article69434085.ece/alternates/LANDSCAPE_1200/PTI04_08_2025_000179B.jpg",
+            "language": "en",
+            "published_at": "2025-04-10T04:39:14.000000Z",
+            "source": "thehindubusinessline.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": [
+                {
+                    "uuid": "4b43c27a-6ac3-4431-912c-fc66731881c5",
+                    "title": "Stock market holiday on Mahavir Jayanti 2025: Is trading open or closed on NSE, BSE today?",
+                    "description": "Indian stock exchanges, BSE and NSE, will remain closed on April 10, 2025, for Mahavir Jayanti, with trading resuming on April 11. Investors are advised to plan trades ahead, as the Multi Commodity Exchange (MCX) will also observe a half-day holiday.",
+                    "keywords": "bse, national stock exchange, mcx, Stock Market, market holiday, stock market holiday, mahavir jayanti",
+                    "snippet": "NSE holidays in April 2025\n\nLive Events\n\nApril 14, 2025 (Monday): Dr. B.R. Ambedkar Jayanti\n\n\n\nApril 18, 2025 (Friday): Good Friday\n\n\n\n\n\nStock market holidays 2...",
+                    "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-on-mahavir-jayanti-2025-is-trading-open-or-closed-on-nse-bse-today/articleshow/120145356.cms",
+                    "image_url": "https://img.etimg.com/thumb/msid-120145359,width-1200,height-630,imgsize-86810,overlay-etmarkets/articleshow.jpg",
+                    "language": "en",
+                    "published_at": "2025-04-10T03:26:13.000000Z",
+                    "source": "economictimes.indiatimes.com",
+                    "relevance_score": null,
+                    "entities": []
+                },
+                {
+                    "uuid": "a5ae0a69-f8fc-4860-91b3-7779a2d6da02",
+                    "title": "Bank holiday: Are banks closed today, on April 10, for Mahavir Jayanti? Check schedule here",
+                    "description": "Bank holiday today: Are banks closed on April 10 for Mahavir Jayanti? Will banks also be closed on April 12-13 for Saturday and Sunday? Is there a long weekend ahead? Check full bank schedule for April 2025 here.",
+                    "keywords": "news, India, banks, banks closed today, banks closed for Mahavir Jayanti, banks closed on April 10, long weekend holiday, banks holiday schedule April 10, are banks closed on April 10, are banks open today, will banks work today, Ambedkar Jayanti, Good Friday, Saturday, second saturday, sunday, weekend holiday, weekly off, India bank holidays, April bank holidays, bank holidays in April 2025, Bengali New year, Bohag Bihu, Himachal Day, long weekend holiday in April, banks long weekend, bank holiday list, bank holiday schedule, April 2025 bank holidays list, April bank holidays schedule",
+                    "snippet": "Bank holidays today: All public and private banks across India, including the State Bank of India (SBI), are closed today, on April 10, for Mahavir Jayanti, Apr...",
+                    "url": "https://www.livemint.com/industry/banking/bank-holiday-today-closed-april-10-mahavir-jayanti-long-weekend-saturday-sunday-bihu-ambedkar-jayanti-good-friday-easter-11744246255704.html",
+                    "image_url": "https://www.livemint.com/lm-img/img/2025/04/10/1600x900/Bnak_holiday_today_closed_Mahavir_Jayanti_April_10_1744247781257_1744247781488.jpg",
+                    "language": "en",
+                    "published_at": "2025-04-10T01:12:30.000000Z",
+                    "source": "livemint.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "SBKFF",
+                            "name": "State Bank of India",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 22.147211,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "Bank holidays today: All public and priv[+300 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "1106de5c-2082-428a-a85a-c1b119da8ffc",
+                    "title": "Mahavir Jayanti 2025: Is it dry day across India on April 10?",
+                    "description": "The country will observe Mahavir Jayanti on April 10, 2025. Will liquor shops be closed on this day? Check here.",
+                    "keywords": "Mahavir Jayanti 2025, Mahavir Jayanti significance, Mahavir Jayanti dry day, Mahavir Jayanti wishes",
+                    "snippet": "Mahavir Jayanti will be observed across India on April 10, Thursday. The day holds importance among the Jain community as they commemorate the famous Jain Tirth...",
+                    "url": "https://www.livemint.com/news/india/mahavir-jayanti-2025-is-it-dry-day-across-india-on-april-10-11744246860088.html",
+                    "image_url": "https://www.livemint.com/lm-img/img/2025/04/10/1600x900/2-0-73217851-DryDay-4C--0_1681399734655_1744246959044.jpg",
+                    "language": "en",
+                    "published_at": "2025-04-10T01:05:16.000000Z",
+                    "source": "livemint.com",
+                    "relevance_score": null,
+                    "entities": []
+                },
+                {
+                    "uuid": "f095238a-d657-4850-97b3-6baf3dc2abf6",
+                    "title": "Stock market posts third biggest gain in post-WWII history on Trump's tariff about-face",
+                    "description": "Stocks skyrocketed in a kneejerk reaction to President Donald Trump's announcement to put a 90-day pause on some of the lofty 'reciprocal' tariffs.",
+                    "keywords": "Breaking News: Markets, Breaking News: Investing, Breaking News: Business, Investment strategy, Wall Street, Stock markets, Markets, S&P 500 Index, Donald Trump, FactSet Research Systems Inc, business news",
+                    "snippet": "The S&P 500 skyrocketed 9.52% in a kneejerk reaction to Trump's announcement to put a 90-day pause on some of the lofty 'reciprocal' tariffs. The one-day gain r...",
+                    "url": "https://www.cnbc.com/2025/04/09/stock-market-posts-third-biggest-gain-in-post-wwii-history-on-trumps-tariff-about-face.html",
+                    "image_url": "https://image.cnbcfm.com/api/v1/image/108018145-17231371932024-08-08t164014z_1026818826_rc2pb9ae6l3l_rtrmadp_0_usa-stocks.jpeg?v=1733937579&w=1920&h=1080",
+                    "language": "en",
+                    "published_at": "2025-04-09T20:32:21.000000Z",
+                    "source": "cnbc.com",
+                    "relevance_score": null,
+                    "entities": []
+                }
+            ]
+        },
+        {
+            "uuid": "1716d76f-d2fc-4106-8507-df5454f94b42",
+            "title": "PM Modi to launch projects worth Rs 3,880 cr during Varanasi visit on April 11",
+            "description": "Prime Minister Narendra Modi will visit his parliamentary constituency Varanasi on April 11, where he will address a public gathering and inaugurate and lay the foundation stone for 44 projects worth Rs 3,880 crore.",
+            "keywords": "varanasi, Narendra Modi, varanasi development authority, modi, up college, ramnagar, railways, bjp city, adg security, Security",
+            "snippet": "Live Events\n\n\n\n\n\n(You can now subscribe to our\n\n(You can now subscribe to our Economic Times WhatsApp channel\n\nPrime Minister Narendra Modi will visit his parli...",
+            "url": "https://economictimes.indiatimes.com/news/india/pm-modi-to-launch-projects-worth-rs-3880-cr-during-varanasi-visit-on-april-11/articleshow/120146324.cms",
+            "image_url": "https://img.etimg.com/thumb/msid-120146340,width-1200,height-630,imgsize-19942,overlay-economictimes/articleshow.jpg",
+            "language": "en",
+            "published_at": "2025-04-10T04:38:49.000000Z",
+            "source": "economictimes.indiatimes.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": []
+        },
+        {
+            "uuid": "196cd9b6-fe6e-4b60-ab25-76abc8d84193",
+            "title": "8 zodiac signs who are most likely to be your therapist friend",
+            "description": "We all have that one friend who listens without judgment, gives solid advice, and somehow knows exactly what to say when life gets messy. Ever wonder if the stars have something to do with it? These 8 zodiac signs are the most likely to be the \u201ctherapist\u201d in your friend group.",
+            "keywords": "zodiac signs that give advice, therapist friend zodiac signs, supportive zodiac signs, emotional zodiac signs, best zodiac listeners, astrology and friendship, Astrology",
+            "snippet": "Cancer\n\nCancers are the ultimate nurturers of the zodiac. With their deep emotional intelligence and ability to sense what others are feeling, they make you fee...",
+            "url": "https://economictimes.indiatimes.com/news/web-stories/8-zodiac-signs-who-are-most-likely-to-be-your-therapist-friend/slideshow/120146260.cms",
+            "image_url": "https://img.etimg.com/thumb/msid-120146279,width-900,height-1200,resizemode-6.cms",
+            "language": "en",
+            "published_at": "2025-04-10T04:35:43.000000Z",
+            "source": "economictimes.indiatimes.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": []
+        }
+    ]
+}

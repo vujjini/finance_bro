@@ -1,0 +1,112 @@
+{
+    "meta": {
+        "found": 3891,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "fff7debb-4b34-4266-b4db-d8cb49efec82",
+            "title": "2 Defensive Sectors to Protect Your Portfolio During a Recession",
+            "description": "Market Analysis by  covering: The Consumer Staples Select Sector SPDR\u00ae Fund, The Utilities Select Sector SPDR\u00ae Fund. Read 's Market Analysis on Investing.com",
+            "keywords": "",
+            "snippet": "As recession fears rise and the fear index plummets toward levels last seen during the March 2020 pandemic panic, U.S. and global equities are taking a signific...",
+            "url": "https://www.investing.com/analysis/2-defensive-sectors-to-protect-your-portfolio-during-a-recession-200659222",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+            "language": "en",
+            "published_at": "2025-04-08T12:17:00.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NEE",
+                    "name": "NextEra Energy, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 20.644053,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Many of its top holdings, including Sout[+286 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "76cada0d-e394-4969-b2aa-0640b61570b1",
+            "title": "Texas Attempt to Kickstart New Gas-Fired Power Is Stumbling",
+            "description": "A Texas experiment to fund new natural gas-burning power plants with $5 billion in public loans is faltering as several of the proposed facilities drop",
+            "keywords": "",
+            "snippet": "A Texas experiment to fund new natural gas-burning power plants with $5 billion in public loans is faltering as several of the proposed facilities drop out, thr...",
+            "url": "https://www.insurancejournal.com/news/southcentral/2025/04/08/818850.htm",
+            "image_url": "https://www.insurancejournal.com/app/uploads/2025/04/Texas-utilities-natural-gas-power-plant-scaled.jpg",
+            "language": "en",
+            "published_at": "2025-04-08T06:00:30.000000Z",
+            "source": "insurancejournal.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NEE",
+                    "name": "NextEra Energy, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 24.293047,
+                    "sentiment_score": -0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Days later, however, they rejected one o[+226 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "13400b37-ded3-4131-bda2-69dd44dcebe5",
+            "title": "Texas Attempt to Kickstart New Gas-Fired Power Is Stumbling",
+            "description": "Developers are\u00a0exiting a state program over cost uncertainty\u00a0and supply-chain delays.",
+            "keywords": "BLOOM, energy",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nTexas Attempt to Kickstart New Gas-Fired Power Is Stumbling Developers are exiting a s...",
+            "url": "https://financialpost.com/pmn/business-pmn/texas-attempt-to-kickstart-new-gas-fired-power-is-stumbling",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/04/776085418.jpg",
+            "language": "en",
+            "published_at": "2025-04-05T14:18:00.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NEE",
+                    "name": "NextEra Energy, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 18.631355,
+                    "sentiment_score": -0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Days later, however, they rejected one o[+226 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

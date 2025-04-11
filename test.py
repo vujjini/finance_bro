@@ -6,7 +6,7 @@ import warnings
 from dotenv import load_dotenv
 
 load_dotenv("./.env")
-tiingo_api_key = os.environ.get("tiingo_api_token")
+tiingo_api_key = os.environ.get("tiinglo_api_key")
 
 
 def get_text_from_url(url):
@@ -71,4 +71,4 @@ def get_stock_news_articles(api_token, symbol, dest_file):
                             f.write(f"Similar Article: {similar_url}\n")
                             f.write(similar_text + "\n\n")
 
-get_stock_news_articles(tiingo_api_key, "AAPL", "apple_news")
+get_stock_news_articles(tiingo_api_key, "TSLA", "tesla_news")

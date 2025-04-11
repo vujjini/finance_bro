@@ -1,0 +1,645 @@
+{
+    "meta": {
+        "found": 71583,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "816c3d96-d15b-47ca-8818-777749cacf10",
+            "title": "Dow Surges 600 Points Amid Market Volatility and Trade Tariff Developments",
+            "description": "U.S. stocks rallied with the Dow Jones Industrial Average rising 600 points, as investors closely monitored the developments in the trade tariff situation. The",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, SPY",
+            "snippet": "U.S. stocks rallied with the Dow Jones Industrial Average rising 600 points, as investors closely monitored the developments in the trade tariff situation. The ...",
+            "url": "https://www.gurufocus.com/news/2774977/dow-surges-600-points-amid-market-volatility-and-trade-tariff-developments",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-04-11T20:10:13.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.176961,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> halted the supply of two [+183 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "30d43fb4-9fe6-4bd8-9475-8ba5154db2ea",
+                    "title": "Midday Market Update: Wall Street Wobbles Amid China Tariff Retaliation and Bank Earnings",
+                    "description": "As of midday on Friday, April 11, 2025, major U.S. stock indexes are trading lower amid escalating trade tensions between the United States and China. The Dow",
+                    "keywords": "",
+                    "snippet": "Market Indexes Dip as Trade Tensions Escalate\n\nAs of midday on Friday, April 11, 2025, major U.S. stock indexes are trading lower amid escalating trade tensions...",
+                    "url": "https://thestockmarketwatch.com/stock-market-news/midday-market-update-wall-street-wobbles-amid-china-tariff-retaliation-and-bank-earnings/49253/",
+                    "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+                    "language": "en",
+                    "published_at": "2025-04-11T15:29:02.000000Z",
+                    "source": "thestockmarketwatch.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.374495,
+                            "sentiment_score": 0.2263,
+                            "highlights": [
+                                {
+                                    "highlight": "Other tech giants are showing mixed resu[+287 characters]",
+                                    "sentiment": 0.2263,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 11.039579,
+                            "sentiment_score": 0.2263,
+                            "highlights": [
+                                {
+                                    "highlight": "Other tech giants are showing mixed resu[+287 characters]",
+                                    "sentiment": 0.2263,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.439398,
+                            "sentiment_score": -0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Nvidia</em> (NVDA) is up 1.7%, rebou[+253 characters]",
+                                    "sentiment": -0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT",
+                            "name": "Microsoft Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.590323,
+                            "sentiment_score": 0.2263,
+                            "highlights": [
+                                {
+                                    "highlight": "Other tech giants are showing mixed resu[+287 characters]",
+                                    "sentiment": 0.2263,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 12.117483,
+                            "sentiment_score": 0.2263,
+                            "highlights": [
+                                {
+                                    "highlight": "Other tech giants are showing mixed resu[+296 characters]",
+                                    "sentiment": 0.2263,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "f95f2e03-7fc3-4904-9cd6-b9f738acbe76",
+            "title": "Market Recap: Stocks Inch Higher After Volatile Week of Tariff Turbulence",
+            "description": "The major U.S. stock indexes inched higher on Friday, April 11, 2025, as traders cautiously navigated the final trading session of what has been one of the",
+            "keywords": "",
+            "snippet": "Market Performance: Major Indexes Stabilize After Wild Swings\n\nThe major U.S. stock indexes inched higher on Friday, April 11, 2025, as traders cautiously navig...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/market-recap-stocks-inch-higher-after-volatile-week-of-tariff-turbulence/49255/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-04-11T18:29:16.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.394274,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "Tech Earnings: Major tech companies repo[+213 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "5fe242ce-d3da-4411-b15d-12fe1f6efde7",
+            "title": "3 Strategic Plays for Growth Amid US-China Trade Shifts",
+            "description": "Market Analysis by  covering: Intel Corporation, Lam Research Corp, NVIDIA Corporation, Micron Technology Inc. Read 's Market Analysis on Investing.com",
+            "keywords": "",
+            "snippet": "Over the week, the Trump admin suffered a heavy credibility blow. Only shortly after introducing the term \u201cpanican\u201d, describing people stressing over market...",
+            "url": "https://www.investing.com/analysis/3-strategic-plays-for-growth-amid-uschina-trade-shifts-200659406",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+            "language": "en",
+            "published_at": "2025-04-11T18:25:00.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.18053,
+                    "sentiment_score": 0.21625,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em>\n\nThe premium US electric [+281 characters]",
+                            "sentiment": -0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "When it comes to tariff, it is notable t[+210 characters]",
+                            "sentiment": 0.1689,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In general, I\u2019m in favor of no tariffs[+275 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Ahead of Q1 2025 earnings on April 22nd,[+211 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "a66dd017-6178-45f8-a667-95c1d884d34b",
+                    "title": "Q1 Earnings Season Poses Next Big Test for the S&P 500 Amid Trade War Threat",
+                    "description": "Market Analysis by  covering: S&P 500, Boeing Co, AT&T Inc, Caterpillar Inc. Read 's Market Analysis on Investing.com",
+                    "keywords": "",
+                    "snippet": "Wall Street\u2019s Q1 earnings season is upon us, and the stakes are high.\n\nThe potential for a trade war looms large, casting a shadow over corporate outlooks and...",
+                    "url": "https://www.investing.com/analysis/q1-earnings-season-poses-next-big-test-for-the-sp-500-amid-trade-war-threat-200659372",
+                    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+                    "language": "en",
+                    "published_at": "2025-04-11T10:57:00.000000Z",
+                    "source": "investing.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "PSQ",
+                            "name": "ProShares Short QQQ",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 29.395264,
+                            "sentiment_score": -0.2732,
+                            "highlights": [
+                                {
+                                    "highlight": "Disclosure: At the time of writing, I am[+305 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.623217,
+                            "sentiment_score": 0.1779,
+                            "highlights": [
+                                {
+                                    "highlight": "The earnings season gathers momentum in [+239 characters]",
+                                    "sentiment": 0.1779,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAL",
+                            "name": "American Airlines Group Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 15.21592,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Tesla (NASDAQ: ), Boeing (NYSE: ), AT&T [+185 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.965372,
+                            "sentiment_score": 0.1779,
+                            "highlights": [
+                                {
+                                    "highlight": "The earnings season gathers momentum in [+239 characters]",
+                                    "sentiment": 0.1779,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 14.67206,
+                            "sentiment_score": 0.1779,
+                            "highlights": [
+                                {
+                                    "highlight": "The earnings season gathers momentum in [+248 characters]",
+                                    "sentiment": 0.1779,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 12.481741,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Source: InvestingPro\n\nSome of the notabl[+314 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT",
+                            "name": "Microsoft Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.797461,
+                            "sentiment_score": 0.1779,
+                            "highlights": [
+                                {
+                                    "highlight": "The earnings season gathers momentum in [+239 characters]",
+                                    "sentiment": 0.1779,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "DKNG",
+                            "name": "DraftKings Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.551888,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Source: InvestingPro\n\nSome of the notabl[+314 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 12.298538,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> (NASDAQ: ), Boeing (NYSE:[+176 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NFLX",
+                            "name": "Netflix, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.123708,
+                            "sentiment_score": 0.6486,
+                            "highlights": [
+                                {
+                                    "highlight": "Next week sees high-profile names like <[+174 characters]",
+                                    "sentiment": 0.6486,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "T",
+                            "name": "AT&T Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.18605,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Tesla (NASDAQ: ), Boeing (NYSE: ), <em>A[+185 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AU",
+                            "name": "AngloGold Ashanti Limited",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Basic Materials",
+                            "match_score": 23.1893,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Source: InvestingPro\n\nSome of the notabl[+323 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "WFC",
+                            "name": "Wells Fargo & Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 17.593433,
+                            "sentiment_score": 0.0772,
+                            "highlights": [
+                                {
+                                    "highlight": "JPMorgan Chase (NYSE: ) and <em>Wells</e[+254 characters]",
+                                    "sentiment": 0.0772,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JPM",
+                            "name": "JPMorgan Chase & Co.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 17.190514,
+                            "sentiment_score": 0.3182,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>JPMorgan</em> <em>Chase</em> (NYSE: [+254 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NET",
+                            "name": "Cloudflare, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.333206,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Source: InvestingPro\n\nSome of the notabl[+314 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CAT",
+                            "name": "Caterpillar Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 15.176177,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Tesla (NASDAQ: ), Boeing (NYSE: ), AT&T [+176 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TFC",
+                            "name": "Truist Financial Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 16.468111,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Source: InvestingPro\n\nSome of the notabl[+323 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "COF",
+                            "name": "Capital One Financial Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 15.237539,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Source: InvestingPro\n\nSome of the notabl[+332 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JNJ",
+                            "name": "Johnson & Johnson",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 23.230265,
+                            "sentiment_score": 0.6486,
+                            "highlights": [
+                                {
+                                    "highlight": "Next week sees high-profile names like N[+183 characters]",
+                                    "sentiment": 0.6486,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PSQ.MX",
+                            "name": "ProShares Short QQQ",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 29.395535,
+                            "sentiment_score": -0.2732,
+                            "highlights": [
+                                {
+                                    "highlight": "Disclosure: At the time of writing, I am[+305 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "DJNJ2.BA",
+                            "name": "Johnson & Johnson",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 14.622889,
+                            "sentiment_score": 0.6486,
+                            "highlights": [
+                                {
+                                    "highlight": "Next week sees high-profile names like N[+183 characters]",
+                                    "sentiment": 0.6486,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "DJNJ3.BA",
+                            "name": "Johnson & Johnson",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 14.622889,
+                            "sentiment_score": 0.6486,
+                            "highlights": [
+                                {
+                                    "highlight": "Next week sees high-profile names like N[+183 characters]",
+                                    "sentiment": 0.6486,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
