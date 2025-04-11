@@ -34,9 +34,9 @@ def get_text_from_url(url):
     except Exception as e:
         return f"Failed to fetch {url}: {str(e)}"
 
-def get_stock_news_articles(api_token, symbol, dest_file):
+def get_stock_news_articles(symbol, dest_file):
     params = {
-        'api_token': api_token,
+        'api_token': tiingo_api_key,
         'symbols': symbol,
         'filter_entities': 'true',
         'language': 'en'
@@ -48,11 +48,11 @@ def get_stock_news_articles(api_token, symbol, dest_file):
     # print the response in a readable format
     response = requestResponse.json()
     # print(json.dumps(response, indent=4))
-    json_file_name = f"stock_news/{dest_file}.json"
+    json_file_name = f"{dest_file}.json"
     # write the response to a json file
     with open(json_file_name, 'w') as f:
         json.dump(response, f, indent=4)
-    with open(f"stock_news/{dest_file}.txt", "w", encoding="utf-8") as f:
+    with open(f"{dest_file}.txt", "w", encoding="utf-8") as f:
         for article in response["data"]:
             url = article["url"]
             text = get_text_from_url(url)
@@ -71,4 +71,4 @@ def get_stock_news_articles(api_token, symbol, dest_file):
                             f.write(f"Similar Article: {similar_url}\n")
                             f.write(similar_text + "\n\n")
 
-get_stock_news_articles(tiingo_api_key, "TSLA", "tesla_news")
+get_stock_news_articles("TSLA", "tesla_news")

@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "found": 4924,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "bd8ac3eb-c7bc-4932-b6a8-0dc478c00531",
+            "title": "Undaunted Retail Investors Bruised By S&P 500\u2019s Big Reversal",
+            "description": "Individual investors are proving to be relentless when it comes to pouring money into a turbulent US stock market that\u2019s been rocked by President Donald Trump\u2019s tariff salvos.Emboldened by Wednesday\u2019s big rally in the S&P 500, retail traders kept buying even as stocks slid Thursday. They ended the session with $4 billion in net purchases, the fourth time they\u2019ve broken that threshold this year, according to data from JPMorgan Chase & Co.\u2019s Emma Wu.",
+            "keywords": "Bloomberg, S&P 500",
+            "snippet": "\u201cGiven their persistent dip-buying throughout the crash, we estimate their portfolios are still far from breakeven,\u201d said Wu.\n\nGranted, individual investors...",
+            "url": "https://www.ndtvprofit.com/global-economics/undaunted-retail-investors-bruised-by-sp-500s-big-reversal",
+            "image_url": "https://media.assettype.com/bloombergquint%2F2025-04-11%2Fhr2k4kxy%2F430998740.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "language": "en",
+            "published_at": "2025-04-11T15:17:00.000000Z",
+            "source": "bloombergquint.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.838318,
+                    "sentiment_score": 0.8553,
+                    "highlights": [
+                        {
+                            "highlight": "Retail traders\u2019 interest in buying sin[+182 characters]",
+                            "sentiment": 0.8553,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "d3b7cbbe-9463-47a9-b06f-d6544b32cc86",
+            "title": "The Zacks Analyst Blog Highlights NVIDIA, Palantir Technologies, Advanced Micro Devices, Microsoft and Amazon.com",
+            "description": "NVIDIA, Palantir Technologies, Advanced Micro Devices, Microsoft and Amazon.com are included in this Analyst Blog.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2446599/the-zacks-analyst-blog-highlights-nvidia-palantir-technologies-advanced-micro-devices-microsoft-and-amazoncom?cid=CS-ZC-FT-press_releases-2446599",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fd/423.jpg",
+            "language": "en",
+            "published_at": "2025-04-11T10:44:00.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 52.27365,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The Zacks Analyst Blog Highlights NVIDIA, <em>Palantir</em> <em>Technologies</em>, Advanced Micro Devices, Microsoft and Amazon.com",
+                            "sentiment": 0.25,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "a586131c-6968-4920-989a-c840d9a125bd",
+            "title": "12 Best Tech Stocks to Buy For Long-Term Investment",
+            "description": "On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC\u2019s \u2018Closing Bell\u2019 to talk about his outlook on the tech sector.",
+            "keywords": "",
+            "snippet": "On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC\u2019s \u2018Closing Bell\u2019 to talk about his outlook on the tech...",
+            "url": "https://www.insidermonkey.com/blog/12-best-tech-stocks-to-buy-for-long-term-investment-1500387/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/12/16114927/WKEY-insidermonkey-1702745365251.jpg",
+            "language": "en",
+            "published_at": "2025-04-11T00:39:07.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 42.99585,
+                    "sentiment_score": 0.656967,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Palantir</em> <em>Technologies</em> [+269 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Palantir</em> <em>Technologies</em> [+258 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Alger Mid Cap Focus Fund is positive on [+233 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

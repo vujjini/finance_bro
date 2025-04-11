@@ -1,0 +1,141 @@
+=== ARTICLE FROM: https://www.ndtvprofit.com/global-economics/undaunted-retail-investors-bruised-by-sp-500s-big-reversal ===
+Individual investors are proving to be relentless when it comes to pouring money into a turbulent US stock market that’s been rocked by President Donald Trump’s tariff salvos.
+Emboldened by Wednesday’s big rally in the S&P 500, retail traders kept buying even as stocks slid Thursday. They ended the session with $4 billion in net purchases, the fourth time they’ve broken that threshold this year, according to data from JPMorgan Chase & Co.’s Emma Wu. 
+“Retail traders remained undaunted by the market plummet,” said Wu, the bank’s global quantitative and derivatives strategist. “Despite the selloff, they continued to buy aggressively.”
+However, the market reversal shows the downside to their unceasing confidence. After logging a 17% gain Wednesday and drawing nearly even on the year, the latest equities selloff pushed them further away from recouping their 2025 losses. 
+“Given their persistent dip-buying throughout the crash, we estimate their portfolios are still far from breakeven,” said Wu.
+Granted, individual investors sticking to their buy-the-dip approach amid escalating trade tensions have been doing better than the broad market. The S&P 500 is down 10% for the year as economic worries have mounted.
+All told, retail investors pumped $11 billion in equities since April 2, the day Trump unleashed sweeping reciprocal levies on trading partners, data through Wednesday’s close show. That is a significantly higher level than the 12-month average, and has been surpassed only about 1% of the time. 
+Retail traders’ interest in buying single stocks also remained strong on Thursday, especially in long-time favorites such as Tesla Inc. and Palantir Technologies Inc., the JPMorgan data showed. 
+As the S&P 500 whipsaws, individual investors — who rose to prominence during the Covid-19 pandemic for using social media to swap trading advice — are still diving into stocks, while larger institutional investors rotate into international markets and less risky assets such as Treasuries.
+“There has been a paradigm shift among retail investors, particularly younger investors, to buy in periods of stress dating back to the pandemic,” said Mark Hackett, chief market strategist at Nationwide. “Wednesday was another reinforcing data point for this group, accelerated by the short covering by institutions, causing the massive rally.”
+
+=== ARTICLE FROM: https://www.zacks.com/stock/news/2446599/the-zacks-analyst-blog-highlights-nvidia-palantir-technologies-advanced-micro-devices-microsoft-and-amazoncom?cid=CS-ZC-FT-press_releases-2446599 ===
+We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By pressing "Accept All" or closing out of this banner, you consent to the use of all cookies and similar technologies and the sharing of information they collect with third parties. You can reject marketing cookies by pressing "Deny Optional," but we still use essential, performance, and functional cookies. In addition, whether you "Accept All," Deny Optional," click the X or otherwise continue to use the site, you accept our Privacy Policy and Terms of Service, revised from time to time.
+New to Zacks? Get started here.
+Don't Know Your Password?
+Don't Know Your Password?
+You are being directed to ZacksTrade, a division of LBMZ Securities and licensed broker-dealer. ZacksTrade and Zacks.com are separate companies. The web link between the two companies is not a solicitation or offer to invest in a particular security or type of security. ZacksTrade does not endorse or adopt any particular investment strategy, any analyst opinion/rating/report or any approach to evaluating individual securities.
+If you wish to go to ZacksTrade, click OK. If you do not, click Cancel.
+OK Cancel
+Image: Bigstock
+Zacks Equity Research
+                    April 11, 2025
+
+AMZN Quick QuoteAMZN AMD Quick QuoteAMD MSFT Quick QuoteMSFT NVDA Quick QuoteNVDA PLTR Quick QuotePLTR 
+
+
+
+Better trading starts here.
+
+
+
+You follow Press Releases - edit
+
+
+You follow Zacks Equity Research - edit
+
+
+
+Zacks Equity Research
+
+
+
+Press Releases
+
+Chicago, IL – April 11, 2025 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: NVIDIA Corp. (NVDA Quick QuoteNVDA  -  Free Report)    , Palantir Technologies Inc. (PLTR Quick QuotePLTR  -  Free Report)    , Advanced Micro Devices, Inc.’s (AMD Quick QuoteAMD  -  Free Report)    , Microsoft Corp. (MSFT Quick QuoteMSFT  -  Free Report)     and Amazon.com, Inc. (AMZN Quick QuoteAMZN  -  Free Report)    .
+The advent of artificial intelligence (AI) has made semiconductor behemoth NVIDIA Corp. and data-mining specialist Palantir Technologies Inc. Wall Street darlings, with their shares witnessing massive gains. But this year, NVIDIA’s shares have fallen 15.1%, while Palantir’s shares have gained 21.5% amid Trump tariff woes. Does this mean Palantir has more growth potential and investment appeal? Let’s explore –
+NVIDIA’s share of over 80% in the growing graphics processing unit (GPU) market gives the company a competitive edge over its peers. Among the developers, NVIDIA’s CUDA software platform is in more demand than Advanced Micro Devices, Inc.’s ROCm software platform. The change is unlikely due to the complexity of infrastructure transitions.
+There is insane demand for NVIDIA’s both new and older chips. The new-generation Blackwell chips with faster AI interfaces are popular among prominent tech firms. Meanwhile, the older Hopper chips maintained steady demand due to their superior quality.
+AI data center spending is also rising, a boon for NVIDIA. Major cloud computing stocks are poised to invest nearly $250 billion in AI data center infrastructure, purchasing GPUs to meet the growing demand for AI workloads.
+For now, Microsoft Corp., one of NVIDIA’s primary customers, has scaled back on some of the data center projects. However, competitors Amazon.com, Inc. have stepped in to fill the gap for NVIDIA.
+Palantir’s Artificial Intelligence Platform (AIP) has been a grand success among existing and new customers owing to its capability to automate tasks beyond human capacity. AIP helps its clients decode complex information by applying generative AI in the decision-making workflows.
+From International Data Corp. to Forrester Research, AIP’s prowess was praised by all. Palantir saw a 43% increase in customer count in the fourth quarter, thanks to AIP’s popularity. Its customer base expanded into the private sector beyond government clients, boosting revenue growth.
+The company’s revenues rose 36% in the fourth quarter, with Palantir expecting revenues to increase 31% year over year in the current year. Moreover, the company’s remaining performance obligation in the fourth quarter surpassed current revenue growth, indicating strong upcoming growth.
+Dominance in the GPU market, persistent demand for chips, and an uptick in AI infrastructure spending should help the NVIDIA stock scale upward in the long term.
+Lest we forget, the company has a price/earnings-to-growth (PEG) ratio of 0.85. Any reading below 1 signifies that the stock is undervalued and has the potential to rise when the market realizes its true worth. Maybe that’s why brokers have raised NVIDIA’s average short-term price target by 82.9% to $176.15 from the previous $96.30.
+On the other hand, Palantir’s top customer, the government, is cutting spending due to uncertainty about future software budgets. The Trump administration has asked DOGE to trim its budget by 8% each year for the next five years, hampering Palantir’s growth.
+To top it off, Palantir is trading at a forward price-to-earnings (P/E) ratio of 165.49, which is quite expensive for a company whose earnings are projected to grow 37% in 2025. So, Palantir has set a high bar for itself, but the overvalued stock could crash if business objectives aren’t met. Therefore, it’s premature to expect Palantir stock to outperform NVIDIA soon.
+Brokers are also skeptical about Palantir’s growth story as they have raised the stock’s average short-term price target by only 9.3% to $84.53 from the previous $77.32.
+Given such uncertainty, new entrants should avoid investing in Palantir stock as of now. However, those who have invested may hold onto the stock since an increase in customer base on AIP acceptance is good news for Palantir.
+Palantir currently has a Zacks Rank #3 (Hold), whereas NVIDIA carries a Zacks Rank #2 (Buy). You can see the complete list of today’s Zacks Rank #1 (Strong Buy) stocks here.
+Since 2000, our top stock-picking strategies have blown away the S&P's +7.7% average gain per year. Amazingly, they soared with average gains of +48.4%, +50.2% and +56.7% per year.
+Today you can access their live picks without cost or obligation.
+See Stocks Free >>
+Zacks Investment Research
+800-767-3771 ext. 9339
+support@zacks.com
+https://www.zacks.com
+Past performance is no guarantee of future results. Inherent in any investment is the potential for loss. This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable. All information is current as of the date of herein and is subject to change without notice. Any views or opinions expressed may not reflect those of the firm as a whole. Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities. These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs. These are not the returns of actual portfolios of stocks. The S&P 500 is an unmanaged index. Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.
+Amazon.com, Inc. (AMZN) - free report >>
+Advanced Micro Devices, Inc. (AMD) - free report >>
+Microsoft Corporation (MSFT) - free report >>
+NVIDIA Corporation (NVDA) - free report >>
+Palantir Technologies Inc. (PLTR) - free report >>
+Our experts picked 7 Zacks Rank #1 Strong Buy stocks with the best chance to skyrocket within the next 30-90 days.
+Recent stocks from this report have soared up to +67.5% within 30 days - this month's picks could be even better. See our report's fresh new picks today - it's really free!
+Privacy Policy  |  No cost, no obligation to buy anything ever.Past performance is no guarantee of future results.
+This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herein are trademarks of Microsoft Corporation; Dow Jones & Company; Nasdaq, Inc.; Forbes Media, LLC; Investor's Business Daily, Inc.; and Morningstar, Inc.
+Copyright 2025 Zacks Investment Research | 10 S Riverside Plaza Suite #1600 | Chicago, IL 60606
+At the center of everything we do is a strong commitment to independent research and sharing its profitable discoveries with investors. This dedication to giving investors a trading advantage led to the creation of our proven Zacks Rank stock-rating system. Since 1988 it has more than doubled the S&P 500 with an average gain of +23.89%  per year. These returns cover a period from January 1, 1988 through March 3, 2025. Zacks Rank stock-rating system returns are computed monthly based on the beginning of the month and end of the month Zacks Rank stock prices plus any dividends received during that particular month. A simple, equally-weighted average return of all Zacks Rank stocks is calculated to determine the monthly return. The monthly returns are then compounded to arrive at the annual return. Only Zacks Rank stocks included in Zacks hypothetical portfolios at the beginning of each month are included in the return calculations. Zacks Ranks stocks can, and often do, change throughout the month. Certain Zacks Rank stocks for which no month-end price was available, pricing information was not collected, or for certain other reasons have been excluded from these return calculations. Zacks may license the Zacks Mutual Fund rating provided herein to third parties, including but not limited to the issuer.
+Visit Performance Disclosure for information about the performance numbers displayed above.
+Visit www.zacksdata.com to get our data and content for your mobile app or website.
+Real time prices by BATS. Delayed quotes by Sungard.
+NYSE and AMEX data is at least 20 minutes delayed. NASDAQ data is at least 15 minutes delayed.
+This site is protected by reCAPTCHA and the Google Privacy Policy, DMCA Policy and Terms of Service apply.
+
+=== ARTICLE FROM: https://www.insidermonkey.com/blog/12-best-tech-stocks-to-buy-for-long-term-investment-1500387/ ===
+Our #1 AI Stock Pick is on a steep discount - 29.99$ instead of 99.99$! Click here to access exclusive investment research and ad free browsing!
+Our #1 AI Stock Pick is on a steep discount - 29.99$ instead of 99.99$! Click here to access exclusive research!
+On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC’s ‘Closing Bell’ to talk about his outlook on the tech sector. Verrone believes that most of the current market’s negative sentiment has already been factored into recent stock prices. He highlighted that even after the market’s decline, the VIX, and the currency and bond volatility are lower than they were during the mid-March stress period. Plus, fewer stocks are hitting new lows. He thinks that market lows are formed during periods of bad news, and the market will rally from its current level with an anticipated range of 5,900 to 5,950.
+Verrone believes that the current downturn is more than a typical 10% correction so it will take some time to figure out the market’s true direction. He emphasized the importance of monitoring market breadth, new highs, and credit conditions in the upcoming weeks and months. He also acknowledged the shift in investor sentiment, with more bears than bulls. As the conversation touched on the impact of the Fed and politics in a market, Verrone stated that he pays more attention to what the 2-year Treasury yield tells him instead of listening to what Fed officials have to say. He noted that the 2-year yield’s decline from 3.83% to 3.85% suggests a shift in the market expectations for the Fed’s actions. He highlighted the resilience of financials during the correction and contrasted it with the weakness of tech. He thinks that, unlike financials that entered the correction as leaders, the tech sector might not be able to regain the leadership role.
+While Verrone’s stance acknowledges the current weakness in tech, it’s important to note that the tech sector remains one of the more innovative markets in the long run. For instance, MAG7 continues to be a driving force for this market. That being said, we’re here with a list of the 12 best tech stocks to buy for long-term investment.
+A technician installing a complex of microcontrollers and internet of things devices inside a server rack.
+We first sifted through financial media reports to compile a list of the top tech stocks that are being touted as long term investment plays. We then selected the 12 stocks that were the most popular among elite hedge funds and that analysts were bullish on. The stocks are ranked in ascending order of the number of hedge funds that have stakes in them, as of Q4 2024. The hedge fund data was sourced from Insider Monkey’s database which tracks the moves of over 900 elite money managers.
+Why are we interested in the stocks that hedge funds pile into? The reason is simple: our research has shown that we can outperform the market by imitating the top stock picks of the best hedge funds. Our quarterly newsletter’s strategy selects 14 small-cap and large-cap stocks every quarter and has returned 373.4% since May 2014, beating its benchmark by 218 percentage points (see more details here).
+Number of Hedge Fund Holders: 64
+Palantir Technologies Inc. (NASDAQ:PLTR) builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and operations globally. One of its offerings includes the Artificial Intelligence Platform (AIP) which provides unified access to open-source, self-hosted, and commercial LLMs that transform structured and unstructured data into LLM-understandable objects.
+In 2024, the company’s US commercial sector grew by 54% year-over-year due to AIP and generated $702 million in revenue. In Q4 alone, the sector grew by 64%. It booked $803 million in Total Contract Value in Q4, which indicated a 134% year-over-year improvement. The customer base for this segment also jumped by 73%. Palantir Technologies Inc. (NASDAQ:PLTR) now projects US Commercial revenue to surpass $1.079 billion in 2025 at a 54% growth rate.
+To drive this, the company has been investing in technical talent and product development to remain at the forefront of the AI revolution. One of its initiatives, called Warp Speed, is modernizing American manufacturing and will expand the company’s pipeline. On March 18, Jefferies reiterated an Underperform rating on the company with a $60 price target.
+Alger Mid Cap Focus Fund is positive on the company due to its strong financials and stated the following regarding Palantir Technologies Inc. (NASDAQ:PLTR) in its Q4 2024 investor letter:
+“Palantir Technologies Inc. (NASDAQ:PLTR) builds advanced platforms for data integration, management, and security, enabling interactive, AI-assisted analysis for its users. Its core offerings include Palantir Gotham, designed for government clients, and Palantir Foundry, tailored for commercial customers. Originally focused on U.S. intelligence agencies, Palantir has expanded into defense contracts with western governments and entered the commercial market in 2016. During the quarter, shares contributed to performance after the company reported better-than-expected fiscal third quarter operating results, along with management raising its full year 2024 revenue guidance. Management noted that the recent launch of its AI platform (AIP), which leverages generative AI to optimize business operations, has driven significant growth and investor interest. Additionally, we believe Palantir could be a key partner for the U.S. government’s new Department of Government Efficiency (DOGE), as its AI-driven platforms are ideally suited to help identify inefficiencies, allocate resources effectively, and achieve cost reductions.”
+Number of Hedge Fund Holders: 151
+Mastercard Inc. (NYSE:MA) is a technology company that provides international transaction processing and other payment-related products and services. It offers integrated products and value-added services for account holders, merchants, financial institutions, businesses, and other organizations. It offers payment solutions and services under the MasterCard, Maestro, and Cirrus.
+The company’s Value-Added Services and Solutions segment made about $11 billion in 2024 revenue. Currently, this segment has captured only ~7% of its potential $165 billion SAM. Despite this, the company saw a 17% increase in its net revenue during Q4 alone which was fueled by acquisitions and differentiated products. For instance, the company recently acquired Recorded Future, which is the world’s largest threat intelligence company. Recorded Future’s client base includes over 50% of the Fortune 100 and government agencies in 45 countries, which positions Mastercard Inc. (NYSE:MA) for significant growth.
+For the full year 2025, the company projects net revenue growth in the low teens range, which excludes the impact of acquisitions. Acquisitions are alone expected to add 1% to 1.5% to this growth. Value-Added Services and Solutions segment creates a powerful virtuous cycle with the company’s core payments business. Through this segment, the company generates substantial revenue and strengthens the security and efficiency of its entire ecosystem.
+Conventum – Alluvium Global Fund favors Mastercard Inc. (NYSE:MA) due to its high growth potential. The fund stated the following regarding the company in its Q4 2024 investor letter:
+“Last quarter we wrote about the credit card companies and the Fund’s latest investment, Visa (up 15.2%). With its strong share price performance, that position had grown to be greater than 5%. As we had discussed here, we consider there to be negligible differences in investment merits when compared to Mastercard Incorporated (NYSE:MA) (up 6.8%). Whilst Visa appears a little cheaper on traditional price metrics, our view is that Mastercard has marginally higher growth prospects. Irrespective, both are deserving positions in the portfolio, and given their similarities, and the 5/10/40 rule, in order for us to maintain maximum portfolio flexibility it made sense to sell a little Visa and buy a little Mastercard, and their combined position is 6.2%.”
+NYSE:VNYSE:MANYSE:TSMHeadlineNYSE:CRMNASDAQ:METANASDAQ:PLTRNASDAQ:NVDANASDAQ:AAPLNASDAQ:AMZNNASDAQ:AVGONASDAQ:MSFTNASDAQ:GOOGLDaily NewsletterVisa Inc (NYSE:V)Apple Inc (NASDAQ:AAPL)Mastercard Inc (NYSE:MA)Nvidia Corp (NASDAQ:NVDA)Salesforce Inc. (NYSE:CRM)Broadcom Inc. (NASDAQ:AVGO)Alphabet Inc. (NASDAQ:GOOGL)Microsoft Corp (NASDAQ:MSFT)Amazon.com Inc. (NASDAQ:AMZN)Meta Platforms Inc. (NASDAQ:META)Palantir Technologies Inc (NASDAQ:PLTR)12 Best Tech Stocks to Buy For Long-Term InvestmentTaiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM)Show more...Show less
+Returns since its inception in May 2014 (through February 19th, 2025)
+Warren Buffett
+Berkshire Hathaway
+$293,447,417,000
+David Einhorn
+Greenlight Capital
+$1,491,303,000
+George Soros
+Soros Fund Management
+$5,416,602,000
+Jim Simons
+Renaissance Technologies
+$77,426,184,000
+Leon Cooperman
+Omega Advisors
+$1,886,381,000
+Carl Icahn
+Icahn Capital LP
+$22,521,664,000
+Steve Cohen
+Point72 Asset Management
+$22,767,998,000
+John Paulson
+Paulson & Co
+$3,510,256,000
+David Tepper
+Appaloosa Management LP
+$4,198,712,000
+Paul Tudor Jones
+Tudor Investment Corp
+$6,160,740,000
+Get our editor’s daily picks straight in your inbox!
+
