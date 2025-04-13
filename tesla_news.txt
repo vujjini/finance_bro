@@ -1,110 +1,46 @@
-=== ARTICLE FROM: https://www.gurufocus.com/news/2774977/dow-surges-600-points-amid-market-volatility-and-trade-tariff-developments ===
-U.S. stocks rallied with the Dow Jones Industrial Average rising 600 points, as investors closely monitored the developments in the trade tariff situation. The Dow climbed 599.50 points, or 1.51%, reaching 40,193.16, while the Nasdaq increased by 295.47 points, or 1.80%, to 16,682.78. The S&P 500 also rose by 88.85 points, or 1.69%, closing at 5,356.90. Despite recent volatility, all three indices are on track for weekly gains.
-Since the White House announced tariffs on most countries, the S&P 500 has dropped 7.1%. Morgan Stanley strategist Michael Wilson noted the market is undergoing a significant restructuring of global supply chains, rather than a simple adjustment. The market experienced a sharp fall, with the S&P 500 dropping 3.46% and the Nasdaq plummeting 4.31% recently.
-President Trump announced a temporary reduction in tariffs for multiple countries, but uncertainties remain. The dollar faces a confidence crisis amid fears of a recession. The March Producer Price Index (PPI) unexpectedly fell, indicating inflation could accelerate due to tariffs.
-Google (GOOGL) introduced its seventh-generation TPU chip to compete with Nvidia's B200. Tesla halted the supply of two U.S. imported models in China following increased tariffs.
-JPMorgan's (JPM) first-quarter earnings exceeded expectations, while BlackRock also reported better-than-expected earnings.
+=== ARTICLE FROM: https://finance.yahoo.com/news/elon-musks-brother-kimbal-blasts-223041565.html ===
+Oops, something went wrong
+Unlock stock picks and a broker-level newsfeed that powers Wall Street. 
+Kimbal Musk, Tesla (NASDAQ:TSLA) board member and brother of CEO Elon Musk, has gone public with sharp criticism of President Donald Trump’s trade policies, calling tariffs a “structural, permanent tax on the American consumer” and accusing Trump of celebrating economic self-sabotage.
+“Mmm.. Celebrating causing China’s stock market to go down, by causing our own stock market to go down? Maybe this is why Trump brought back the R word.” Kimbal posted on X, in response to a message from Trump touting the impact of U.S. tariffs.
+UNLOCKED: 5 NEW TRADES EVERY WEEK. Click now to get top trade ideas daily, plus unlimited access to cutting-edge tools and strategies to gain an edge in the markets.
+Get the latest stock analysis from Benzinga?
+TESLA (TSLA): Free Stock Analysis Report
+This article Elon Musk's Brother Kimbal Blasts Trump: 'Celebrating Causing China's Stock Market To Go Down, By Causing Our Own Stock Market To Go Down?' originally appeared on Benzinga.com
+© 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+Sign in to access your portfolio
+
+=== ARTICLE FROM: https://www.benzinga.com/markets/25/04/44778739/elon-musks-political-fallout-fuels-record-dump-of-used-tesla-cars-now-selling-for-thousands-below-market- ===
+Benzinga Rankings give you vital metrics on any stock – anytime.
+As the backlash against Elon Musk intensifies, a record number of Tesla, Inc. TSLA owners are rushing to offload their vehicles, flooding the used market and driving prices down.
+What Happened: The used car market saw a record surge in Tesla listings in March, with over 13,000 used Teslas posted for sale on Autotrader, according to Cox Automotive, reported Business Insider.
+That marks a 67% year-over-year increase and comes amid nationwide protests dubbed the “Tesla Takedown,” which targeted Musk's growing political affiliations — including his role as head of DOGE and close ties to the Donald Trump administration.
+See Also: Elon Musk’s Father Defends Tesla, Says Son Is ‘Doing The Right Thing’ And The Stock Would Recover To $600 By 2025 End: Here’s What Analysts Think About TSLA
+A Cox Automotive spokesperson told the publication that the spike in listings is being driven by two main factors: Tesla's massive growth between 2021 and 2023, which naturally feeds into the used market now, and Musk's increasingly polarizing public image.
+"We cannot ignore the influence of Elon Musk's new high-profile job as DOGE boss and presidential confidant. That is certainly influencing some owners and buyers," the spokesperson said.
+Stephanie Valdez Streaty, director of industry insights at Cox Automotive, said that Musk's political and public persona is creating “significant challenges” for Tesla, compounding issues like rising competition and an aging vehicle lineup.
+Why It Matters: The surge in used Tesla inventory is weighing on prices. According to CarGurus, the average used Tesla now sells for about $10,000 less than other electric vehicles, the report noted.
+Tesla is trying to regain momentum with two major launches this year: a more affordable EV model expected in the first half and a robotaxi service slated to debut in Austin, Texas, in June.
+According to a Cox Automotive report, the U.S. EV market saw a 10.6% year-over-year growth in the first quarter of 2025, although Tesla experienced a decline.
+Despite this, Tesla remains a dominant force in the domestic EV market. Despite an 8.6% drop in sales year over year, Tesla still leads the segment with a commanding 43.5% market share.
+Tesla’s expansion into new markets, such as Saudi Arabia, highlights its global ambitions despite challenges in Europe. However, a new consumer survey in March revealed that Musk is making Americans less inclined to purchase a new Tesla.
+According to Benzinga's Proprietary Edge Rankings, Tesla holds a momentum rating of 90.20% and a growth rating of 67.67%. For more stock insights and growth opportunities, subscribe to Benzinga Edge.
+The consensus price target for Tesla is $299.99, based on evaluations from 29 analysts. Benchmark set the highest target at $475 on Feb. 12, while GLJ Research gave the lowest at $24.86 on the same day. The three latest price targets from UBS, Mizuho, and Benchmark average around $305, indicating a potential upside of 20.58%, according to Benzinga Pro data.
+Check out more of Benzinga’s Future Of Mobility coverage by following this link.
+Read Next:
+Disclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.
+Photo courtesy: Shutterstock
+Benzinga Rankings give you vital metrics on any stock – anytime.
+© 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.
+
+=== ARTICLE FROM: https://www.gurufocus.com/news/2775534/tesla-tsla-halts-orders-for-model-s-and-x-in-china-amid-tariff-hike ===
+Key Takeaways:
+Tesla Inc. (NASDAQ: TSLA) recently announced a halt in orders for its imported Model S and Model X vehicles in China. This decision comes in response to the intensifying trade war and its resultant tariffs, which now loom at an alarming 125% on U.S. goods. Consequently, Tesla's shares experienced a 2.6% decline in pre-market trading, reflecting investor concerns.
+With input from 44 seasoned analysts, the average one-year price target for Tesla Inc. has been set at $309.16. This range includes a high estimate of $465.70 and a low of $24.86, suggesting a promising 22.53% potential upside from the current stock price of $252.31. For a deeper dive into these projections, visit the Tesla Inc (TSLA, Financial) Forecast page.
+In terms of brokerage views, the consensus from 54 firms positions Tesla Inc. with an average recommendation of 2.7, categorized as a "Hold." This rating system typically ranges from 1, indicating a Strong Buy, to 5, suggesting a Sell position.
+According to GuruFocus's GF Value estimate, Tesla shares are projected to reach a valuation of $291.84 within a year. This reflects a potential 15.67% increase from the current trading price. The GF Value is a proprietary metric gauging a stock's fair market value by integrating historical price multiples, past business growth, and future performance predictions. For more comprehensive details, explore the Tesla Inc (TSLA, Financial) Summary page.
 
               We'd love to learn more about your experiences on GuruFocus.com and how we can improve!
             
-
-=== ARTICLE FROM: https://thestockmarketwatch.com/stock-market-news/market-recap-stocks-inch-higher-after-volatile-week-of-tariff-turbulence/49255/ ===
- Stock Market Watch 
- Stock Market Watch 
-
-       by     
-Ed Liston
-
-     ·
-                                            April 11, 2025
-
-The major U.S. stock indexes inched higher on Friday, April 11, 2025, as traders cautiously navigated the final trading session of what has been one of the most volatile weeks in recent market history. The S&P 500 added 0.2%, the Dow Jones Industrial Average hovered near the flatline, while the tech-heavy Nasdaq Composite rose 0.4%.
-This modest recovery comes after Thursday’s steep selloff when the Dow tumbled over 1,000 points (2.5%), the S&P 500 fell 3.46%, and the Nasdaq plunged 4.31%. Despite Friday’s gains, the major indexes remain well below their levels before President Trump’s “Liberation Day” tariff announcements on April 2.
-Weekly Performance:– Dow Jones: +3.3% for the week– S&P 500: +3.8% for the week– Nasdaq Composite: +5.1% for the week
-The CBOE Volatility Index (VIX), Wall Street’s “fear gauge,” has retreated from its midweek spike above 50 but remains elevated near 44, reflecting continued uncertainty in the markets.
-Market volatility has been primarily driven by the rapidly evolving trade situation. After Wednesday’s historic rally following Trump’s announcement of a 90-day pause on many “reciprocal” tariffs, markets tumbled Thursday when the White House clarified that goods from China would still face a staggering 145% tariff rate.
-China retaliated on Friday by raising its levies on U.S. products to 125% from 84%, with the Chinese finance ministry stating, “Even if the U.S. continues to impose higher tariffs, it will no longer make economic sense and will become a joke in the history of world economy.”
-Meanwhile, the European Union has paused its retaliatory tariffs and announced its trade representative will fly to Washington on Sunday to “try and sign deals” during the 90-day reprieve period.
-The first-quarter earnings season officially began with major banks reporting results that offered insights into the economic impact of recent trade tensions:
-– JPMorgan Chase (JPM) shares rose over 2% after reporting better-than-expected Q1 earnings of $5.07 per share on revenue of $46.01 billion, driven by record equities trading amid market volatility. CEO Jamie Dimon maintained a cautious tone, noting that “clients have become more cautious amid an increase in market volatility driven by geopolitical and trade-related tensions.”
-– Wells Fargo (WFC) shares rose about 1% in early trading despite reporting a 6% year-over-year decline in net interest income to $11.50 billion. CEO Charlie Scharf highlighted economic uncertainty, stating, “We support the administration’s willingness to look at barriers to fair trade for the United States, though there are certainly risks associated with such significant actions.”
-– Morgan Stanley (MS) gained more than 1% after reporting Q1 net revenue of $17.7 billion, exceeding analyst expectations of $16.56 billion.
-The “Magnificent Seven” tech stocks showed mixed performance on Friday, with most posting modest gains that helped support the broader market:
-– Nvidia (NVDA) and Alphabet (GOOGL) led the group with gains exceeding 2%– Apple (AAPL) and Microsoft (MSFT) each rose more than 1%– Amazon (AMZN) edged up 0.24%
-However, U.S. chip manufacturers faced significant pressure after the China Semiconductor Association announced that chip tariffs will be based on where they are manufactured rather than shipped from. Texas Instruments (TXN) plunged more than 9%, while Microchip Technology (MCHP) and Intel (INTC) dropped more than 7%.
-Investors should keep an eye on these key events in the coming weeks:
-1. European Central Bank Meeting (April 17): Markets are pricing in a 95% chance of a 25 basis point rate cut.
-2. Tech Earnings: Major tech companies reporting in the next two weeks include:   – Netflix (NFLX): April 17   – Tesla (TSLA): April 22   – Alphabet (GOOGL): April 25   – Microsoft (MSFT), Amazon (AMZN), and Meta Platforms (META): April 30
-3. Economic Data: Upcoming releases will be closely watched for signs of inflation driven by tariffs and potential economic slowdown.
-Despite Friday’s modest gains, market sentiment remains cautious as investors assess the economic impact of escalating trade tensions. JPMorgan economists have reduced their estimate of a U.S. and global recession this year to 50%, down from 60% earlier this month.
-Minneapolis Fed President Kashkari made hawkish comments today, reiterating that “the potential inflationary impact of tariffs makes the Fed less likely to lower interest rates, even in the face of a weakening economy.”
-As earnings season accelerates in the coming weeks, with over 55% of S&P 500 companies reporting between April 21 and May 2, investors will be closely monitoring corporate guidance for insights into how businesses are navigating the uncertain trade environment.
-The dollar index weakened 1% on Friday, putting it on track to end the week down by 3%, while safe-haven assets like gold reached new all-time highs, reflecting ongoing concerns about economic stability.
-As we move forward, market participants will be watching closely for any developments in trade negotiations and signs of economic impact from the tariff policies that have dominated market sentiment throughout this turbulent week.
-Tags: AAPLAMZNGOOGLINTCJPMMCHPMETAMSMSFTNFLXNVDATSLATXNVIXWFC
-Ed Liston
-Ed Liston is a senior contributing editor at TheStockMarketWatch.com. An active market watcher and investor, Ed guides an independent team of experienced analysts and writes for multiple stock trader publications. He is widely quoted in various financial publications on the Internet. When Ed is not writing about stocks, investing in stocks, talking about stocks, or otherwise doing something stock related, he likes to go sailing and fishing.
-Stock Market Watch © 2025. All Rights Reserved.
-
-=== ARTICLE FROM: https://www.investing.com/analysis/3-strategic-plays-for-growth-amid-uschina-trade-shifts-200659406 ===
-Over the week, the Trump admin suffered a heavy credibility blow. Only shortly after introducing the term “panican”, describing people stressing over market instability as “weak and stupid”, President Trump himself became a panican. Namely, after the 10-year Treasury yield went over 4.5%, he abruptly backflipped from global reciprocal tariffs.
-Reminder, the rising Treasury yield is the exact opposite of what both President Trump and Treasury Secretary Bessent want.
-“He and I are focused on the 10-year Treasury and what is the yield of that.”
-Treasury Secretary Scott Bessent on Fox Business
-The sudden tariff reversal was on the same day they were set to take effect. On Wednesday, the new policy is a 90-day suspension of tariffs for most nations, excluding the baseline 10% rate. However, the trade war against China seems to be escalating, with tariffs increased to 125%, (145% if counting the previous 20%) to which China retaliated with equal measure of 125% on US imports.
-While this is concerning, investors should remind themselves there has been a bipartisan consensus among the U.S. ruling class, spanning many decades, to transform China into the world’s manufacturing hub.
-But in the present, China-reliant companies are likely to suffer. And at times like this suppressed valuation, one should consider their exposure, based on their long-term fundamentals.
-In 2024, the Nvidia (NASDAQ:NVDA) and Intel (NASDAQ:INTC) rival made most of its sales in the US at 34.45%, with China just behind at 24.70%. Moreover, AMD (NASDAQ:AMD) has experienced far greater growth in Asia year-over-year.
-Year-to-date, AMD stock is down 23%, currently priced at $92 per share. However, a regular customer of AMD products would think otherwise. The company’s Ryzen series of CPUs continues to trample competition, with the latest X3D series becoming top performers for both gamers and content creators.
-Owing to 3D V-Cache innovation, AMD’s Ryzen CPUs firmly restored performance leadership over Intel while also being energy efficient. On the GPU front, although AMD’s RDNA 4 architecture failed to outperform Nvidia high-end offering, Nvidia greatly fumbled the launch of its RTX 50 series GPUs.
-At the same time, AMD offered cost-effective GPUs, lacking QC issues that seem to plague the RTX 50 launch. In short, AMD is likely to significantly increase both CPU and GPU market shares in the following upgrade cycles, having already achieved a record 45% GPU market share in Japan.
-And the way trends are, tariffs may not even be on anyone’s radar in a few months. In the meantime, AMD has proven time and time again to deliver highly competitive products just when they are needed.
-According to WSJ, the average AMD price target right now is $145.70 against the present price of $92 per share. This price aligns with the estimated bottom target of $90, which makes AMD stock an excellent opportunity at this point in time.
-We covered Lam Research (NASDAQ:LRCX) in September 2024, just before its 10-for-1 forward stock split. At that time, LRCX was considered undervalued due to the company’s critical contribution in supplying the world’s chipmakers with equipment while Nvidia captured the public spotlight (as a chip designer).
-Lam’s products, in particular selective etch systems Argos, Prevos and Selis, are widely used by all semiconductor players, from Samsung (KS:005930) and Micron (NASDAQ:MU) to TSMC and Intel. Given the complexity and delicacy of Lam’s products, the company has a wide moat.
-And that moat is constantly expanding as chipmakers like Intel expand to service national security needs. While it is true that 31% of Lam Research revenue comes from China vs just 9% from the US, as of end 2024, this represents a diversified risk. After all, China-linked sales are owed to multinationals, not purely domesting Chinese firms.
-At the end of the line, Lam’s etching dominance makes it irreplaceable for both the US and friend-shoring allies like Taiwan, Japan and South Korea. While geopolitical tensions may reshape where chips are made, Lam’s moat lies in how they’re made — a process its tools uniquely enable, regardless of borders.
-Year-to-date, LRCX stock is only down 10%. Per WSJ forecasting data, the average LRCX price target is $96.31 per share. Against the present price of $65 per share, the bottom estimate of $75 is significantly higher.
-The premium US electric vehicle maker has a 35% YTD stock slump. As Elon Musk took the mantle of politics, he transferred that vulnerability to the company. This even resulted in street-level action against Tesla car owners, putting in doubt Tesla Inc (NASDAQ:TSLA)’s very brand. Additionally, heavily controlled media apparatus in the EU has already resulted in a 40% sales drop year-over-year.
-Moreover, ~21% of Tesla’s revenue comes from China. When it comes to tariff, it is notable that Elon Musk is not quite on the same page as President Trump, having said this during the Biden admin:
-“Tesla competes quite well in the market in China with no tariffs and no deferential support. In general, I’m in favor of no tariffs,”
-Although Tesla is better positioned than other EV makers, the company still has substantial outsourcing for auto components. Accordingly, when the tariffs were first announced, Musk said on X that the “tariff impact on Tesla is still significant.”
-But with all these headwinds, why would TSLA exposure be optimal now? Ahead of Q1 2025 earnings on April 22nd, Tesla still has substantial capacity to pivot, innovate with a robust FSD, and dominate the long-term EV transition with robotaxis.
-This early on in the Trump admin, China risks are likely overstated. The same applies to branding issues as the astroturfed backlash loses its vigor, and as the Trump admin treats assailants as “domestic terrorism”.
-At present $245, TSLA stock reverted to early November 2024 level, just after the Robotaxi Day event. With progress on FSD and cheap Model 2, this may end up being a rare discount opportunity.
-***
-Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions. 
-This article was originally published on The Tokenist. Check out The Tokenist’s free newsletter, Five Minute Finance, for weekly analysis of the biggest trends in finance and technology.
-
-=== SIMILAR ARTICLES ===
-Similar Article: https://www.investing.com/analysis/q1-earnings-season-poses-next-big-test-for-the-sp-500-amid-trade-war-threat-200659372
-As the U.S. braces for the onset of the first-quarter earnings season, the S&P 500 faces its next pivotal moment against the backdrop of a looming trade war and economic uncertainty.
-The latest forecasts suggest that S&P 500 earnings will have grown 7.0% year-on-year for the quarter ending March, as per FactSet data.
-Source: FactSet
-However, the optimism of these figures is tempered by the cloud of tariffs and their potential impact on corporate outlooks. Notably, companies with significant international exposure may face greater challenges, as tariffs can directly affect their supply chains and profit margins.
-The earnings season kicks off with major financial institutions set to release their reports. JPMorgan Chase (NYSE:JPM) and Wells Fargo (NYSE:WFC) are scheduled to announce their Q1 earnings on April 11.
-The banking sector, often among the first to feel the tremors of economic shifts, will provide an early indicator of how companies are navigating the current challenges. Investors will be listening closely, knowing that any hint of pessimism could ripple across the broader market.
-Beyond the banking sector, investors are keenly observing developments across various industries to gauge the impact of tariffs and trade negotiations on corporate performance and growth projections.
-Next week sees high-profile names like Netflix (NASDAQ:NFLX), Johnson & Johnson (NYSE:JNJ), United Airlines (NASDAQ:UAL), UnitedHealth (NYSE:UNH), Taiwan Semiconductor (NYSE:TSM), and ASML (NASDAQ:ASML) report earnings.
-Tesla (NASDAQ:TSLA), Boeing (NYSE:BA), AT&T (NYSE:T), Verizon (NYSE:VZ), GE Aerospace (NYSE:GE), Intel (NASDAQ:INTC), IBM (NYSE:IBM), American Airlines (NASDAQ:AAL), Caterpillar (NYSE:CAT), are then due the following week.
-The earnings season gathers momentum in the last week of April when the mega-cap tech companies, including Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL), Meta Platforms (NASDAQ:META), Amazon (NASDAQ:AMZN), and Apple (NASDAQ:AAPL) are all scheduled to release their quarterly updates.
-From technology to manufacturing, each sector has its unique vulnerabilities to trade disruptions, and the upcoming earnings season will be a telling indicator of how these companies are adapting and forecasting future demand.
-Beyond the reported earnings figures, investors are particularly interested in the forward guidance provided by companies for insights into how tariffs and economic uncertainties are impacting future outlooks. A dour forecast from a bellwether firm could amplify fears that the economy is losing steam.
-Tariffs were mentioned over 800 times in investor events and calls during Q4 - the highest number in 15 years and double the mentions during Trump's 2018-2019 trade war. Management commentary on future earnings prospects, capital expenditures, and strategies to mitigate tariff impacts will be crucial in assessing the resilience of businesses.
-Companies that demonstrate adaptability and provide clear strategies for navigating the current trade environment may instill greater confidence among investors.
-Wall Street is heading into the Q1 reporting season on a wobbly note as the imposition of tariffs has introduced significant volatility into the markets, leading to concerns about a potential recession.
-Source: Investing.com
-From a technical standpoint, the S&P 500 remains at a critical level below its 200-day moving average. After dropping below this key indicator in early March and hitting a low of 4,835 on April 7, the index staged a rally. However, analysts caution this may only be a technical rebound from oversold conditions.
-Given the current economic backdrop, I used the InvestingPro Stock Screener to search for companies that are forecast to deliver growth of more than 25% in both earnings per share and revenue. In total, just 29 stocks showed up.
-Source: InvestingPro
-Some of the notable names to make the cut include Nvidia (NASDAQ:NVDA), Eli Lilly (NYSE:LLY), Palantir (NASDAQ:PLTR), Boeing, Micron (NASDAQ:MU), Sea, Capital One Financial (NYSE:COF), Truist Financial (NYSE:TFC), Marvell (NASDAQ:MRVL) Technology, Cloudflare (NYSE:NET), AngloGold Ashanti, DraftKings (NASDAQ:DKNG), and Coterra Energy (NYSE:CTRA).
-As companies begin reporting, investors will be scrutinizing not just the numbers but forward guidance and management commentary on tariff impacts.
-With the S&P 500 down 10.5% year-to-date and markets briefly entering bear market territory, this earnings season could determine whether we're experiencing a temporary pullback or the beginning of a more significant downturn.
-One thing is for certain –the market's extreme sensitivity to trade policy developments suggests volatility will remain elevated in the coming weeks.
-Be sure to check out InvestingPro to stay in sync with the market trend and what it means for your trading. Whether you're a novice investor or a seasoned trader, leveraging InvestingPro can unlock a world of investment opportunities while minimizing risks amid the challenging market backdrop.
-Subscribe now and instantly unlock access to several market-beating features, including:
-Disclosure: At the time of writing, I am short on the S&P 500 and Nasdaq 100 via the ProShares Short S&P 500 ETF (SH) and ProShares Short QQQ ETF (PSQ). 
-I regularly rebalance my portfolio of individual stocks and ETFs based on ongoing risk assessment of both the macroeconomic environment and companies' financials.
-The views discussed in this article are solely the opinion of the author and should not be taken as investment advice.
-Follow Jesse Cohen on X/Twitter @JesseCohenInv for more stock market analysis and insight.
 

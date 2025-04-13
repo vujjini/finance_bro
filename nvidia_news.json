@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "found": 48878,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4d01d822-88e7-4057-8980-f452289d7a5c",
+            "title": "Corporate earnings take center stage amid tariff turmoil: What to know this week",
+            "description": "A slew of corporate earnings are expected in the week ahead as tariff headlines have been whipsawing markets.",
+            "keywords": "President Trump, Nasdaq Composite, tariff rate, market action, National Security Tariff Investigations, Goldman Sachs, retail sales",
+            "snippet": "Stocks ended the week higher after a turbulent week of fresh tariff headlines driving the market action.\n\nBut even after the S&P 500's (^GSPC) best week in over...",
+            "url": "https://finance.yahoo.com/news/corporate-earnings-take-center-stage-amid-tariff-turmoil-what-to-know-this-week-113650156.html",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/mDTOkdXeuKoU15QggPhejw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/fe6e83a0-170b-11f0-9e75-e3a0901376d0",
+            "language": "en",
+            "published_at": "2025-04-13T20:29:58.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.827017,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Key products such as smartphones, laptop[+298 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "042d55be-deb4-4f92-ba96-aaec5eeebb70",
+            "title": "Blink twice if you\u2019re ok: ASX set to rise as tariff stance softens",
+            "description": "All eyes on tech stocks this week as smart phone and computers appear to be exempt from tariffs. Plus, my worst ever investments",
+            "keywords": "",
+            "snippet": "A lot of talk of Trump \u201cblinking\u201d at the moment. The US markets were up on Friday as the Trump administration softens its stance on tariffs. The S&P 500 ros...",
+            "url": "https://www.raskmedia.com.au/2025/04/14/blink-twice-if-youre-ok-asx-set-to-rise-as-tariff-stance-softens/",
+            "image_url": "https://www.raskmedia.com.au/wp-content/uploads/2025/04/asx-news-asx-200-shares-2-png.webp",
+            "language": "en",
+            "published_at": "2025-04-13T20:28:36.000000Z",
+            "source": "raskmedia.com.au",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.479961,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "What we\u2019re watching this week\n\nIn the [+245 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "cbd57c62-5286-4c55-aa43-dd45ec72dd72",
+            "title": "Nvidia Shares Are Down 25% From 52-Week High -- Should You Buy, Hold, or Sell Now?",
+            "description": "Shares of semiconductor giant Nvidia (NASDAQ: NVDA) surged 18.7% on April 9, after President Trump announced a 90-day pause on the higher",
+            "keywords": "Nvidia stock, Nvidia, retaliatory tariffs",
+            "snippet": "Shares of semiconductor giant Nvidia (NASDAQ: NVDA) surged 18.7% on April 9, after President Trump announced a 90-day pause on the higher \"reciprocal tariffs.\" ...",
+            "url": "https://finance.yahoo.com/news/nvidia-shares-down-25-52-194500957.html",
+            "image_url": "https://media.zenfs.com/en/motleyfool.com/0d98d9dda454df22fd8ed221abcc9cdb",
+            "language": "en",
+            "published_at": "2025-04-13T19:45:00.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.72471,
+                    "sentiment_score": 0.05154,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of semiconductor giant <em>Nvidia[+270 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "So, does valuation correction present an[+320 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "If true, it can lead to significant supp[+261 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> is also encountering com[+238 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> Shares Are Down 25% From 52-Week High -- Should You Buy, Hold, or Sell Now?",
+                            "sentiment": 0.296,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

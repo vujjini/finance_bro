@@ -47,6 +47,7 @@ from test import get_stock_news_articles
 
 polygon_client = RESTClient("pPY2_xV3rxyz1G8mIbMEbx84lTb11CDf")
 
+
 # Customize your time window
 end_date = datetime.today()
 start_date = end_date - timedelta(days=30)
@@ -74,6 +75,12 @@ class ResponseFormatter(BaseModel):
         Field(description="List of recommended financial attributes with explanations", json_schema_extra={"type": "array"})
     ]
 
+class FinancialAnalysis(BaseModel):
+        qualitative_analysis: str = Field(..., description="Narrative about recent news, company events, and market sentiment.")
+        quantitative_analysis: str = Field(..., description="Analysis of price trends, volumes, and any volatility in the stock.")
+        user_portfolio_fit: str = Field(..., description="How well the stock aligns with the user's portfolio and risk preferences.")
+        recommendation: str = Field(..., description="Final investment advice based on the combined qualitative and quantitative insights.")
+
 
 
 
@@ -86,7 +93,7 @@ embeddings = VertexAIEmbeddings(model="text-embedding-004")
 
 llm = init_chat_model("gemini-2.0-flash-001", model_provider="google_vertexai")
 
-
+llm_structured_analysis = llm.with_structured_output(FinancialAnalysis)
 llm_structured = llm.with_structured_output(ResponseFormatter)
 
 from langchain_qdrant import QdrantVectorStore
@@ -122,7 +129,7 @@ vector_store = QdrantVectorStore(
 # )
 
 def get_analysis(company_name, stock_symbol, dest_file):
-    get_stock_news_articles(stock_symbol, dest_file)
+    get_stock_news_articles(company_name, stock_symbol, dest_file)
     loader = TextLoader(
         f"{dest_file}.txt",
         encoding="utf-8",
@@ -176,9 +183,10 @@ def get_analysis(company_name, stock_symbol, dest_file):
         print(docs_content)
         messages = prompt.invoke({"question": state["question"], "context": docs_content})
         # response = llm_structured.invoke(messages)
-        response = llm.invoke(messages)
+        # response = llm.invoke(messages)
+        response = llm_structured_analysis.invoke(messages)
         # return {"answer": response.recommendations}
-        return {"answer": response.content}
+        return {"answer": response}
 
 
     # Compile application and test
@@ -229,7 +237,7 @@ def get_analysis(company_name, stock_symbol, dest_file):
 #     
     response = graph.invoke({
         "question": f"""
-    You are a financial advisor analyzing the stock **{company_name} ({stock_symbol})**, which is part of a user's investment portfolio.
+    You are a financial advisor analyzing the stock **{company_name} ({stock_symbol})**, which is either a part of a user's investment portfolio or something the user is researching about buying.
 
     You are provided with:
     - Recent news articles about the stock
@@ -238,26 +246,27 @@ def get_analysis(company_name, stock_symbol, dest_file):
 
     ---
 
-    User Profile:
 
-    - Risk Tolerance: Moderate to Aggressive  
-    - Investment Horizon: Long-term (3-5+ years)  
-    - Primary Goal: Growth-focused  
-    - Liquidity Preference: Low (5% in cash)
+    User Investment Profile:
 
-    ---
+    - Risk Tolerance: High
+    - Investment Horizon: Long-term (5+ years)
+    - Primary Goal: Aggressive growth with exposure to emerging technologies
+    - Liquidity Preference: Low (comfortable with short-term losses and lock-ins)
+    - Investment Style: Tech-heavy, disruption-focused, willing to weather volatility
 
-    Portfolio Composition:
-
-    | Ticker | Company                         | Weight (%) | Sector         |
-    |--------|----------------------------------|------------|----------------|
-    | AAPL   | Apple Inc.                      | 25         | Technology     |
-    | MSFT   | Microsoft Corp.                 | 20         | Technology     |
-    | TTWO   | Take-Two Interactive Software   | 20         | Gaming         |
-    | NVDA   | Nvidia                          | 25         | Technology     |
-    | TSLA   | Tesla Inc.                      | 10         | Consumer/Auto  |
 
     ---
+
+    | Ticker | Company                         | Weight (%) | Sector             |
+    |--------|----------------------------------|------------|--------------------|
+    | TSLA   | Tesla Inc.                      | 40         | Consumer/Auto      |
+    | COIN   | Coinbase Global Inc.           | 25         | Cryptocurrency     |
+    | RIVN   | Rivian Automotive Inc.         | 15         | Electric Vehicles  |
+    | SQ     | Block Inc.                     | 10         | FinTech            |
+    | PLUG   | Plug Power Inc.                | 10         | Renewable Energy   |
+
+
 
     Task:
 
@@ -289,12 +298,14 @@ def get_analysis(company_name, stock_symbol, dest_file):
 
     res = response["answer"]
 
+
     # req = set()
 
     # for AttributeExplanation in res:
     #     req.add(AttributeExplanation.attribute)
 
-    return res
+    # return res
+    return {"qualitative": res.qualitative_analysis, "quantitative": res.quantitative_analysis, "user_portfolio_fit": res.user_portfolio_fit, "recommendation": res.recommendation}
 
 
     # aggs = []
@@ -321,11 +332,15 @@ def get_analysis(company_name, stock_symbol, dest_file):
     # print("\n\n")
     # print(req_aggs)
 
-print(get_analysis("TAKE-TWO INTERACTIVE SOFTWARE", "TTWO", "take_two_news"))
+# print(get_analysis("TAKE-TWO INTERACTIVE SOFTWARE", "TTWO", "take_two_news"))
+analysis = get_analysis("Nvidia", "NVDA", "nvidia_news")
+
+print(json.dumps(analysis, indent=4))
+
+# perplexity AI API would be great for this task, as it would be able to get the news articles and then do the RAG process for us.
+# https://vectorize.io/how-i-finally-got-agentic-rag-to-work-right/
+
+# Build a pipeline to get the news articles from google
 
 
-
-
-
-
-
+# allow user to ask follow up questions. provide a recommended action button that has a custom prompt from the user.

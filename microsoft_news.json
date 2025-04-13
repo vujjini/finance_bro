@@ -1,0 +1,142 @@
+{
+    "meta": {
+        "found": 57536,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "fdf480b0-bf3d-4e25-a6d0-4dd218914b4c",
+            "title": "Is Microsoft Corp. (NASDAQ:MSFT) the Best Tech Stock to Buy For Long-Term Investment?",
+            "description": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where Microsoft Corp.",
+            "keywords": "",
+            "snippet": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where Microsoft Corp. (NASD...",
+            "url": "https://www.insidermonkey.com/blog/is-microsoft-corp-nasdaqmsft-the-best-tech-stock-to-buy-for-long-term-investment-1506722/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19152304/MSFT-insidermonkey-1695151382226.jpg",
+            "language": "en",
+            "published_at": "2025-04-11T20:45:07.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 55.260147,
+                    "sentiment_score": 0.464867,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+297 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Microsoft</em> Corp. (<em>NASDAQ:MSF[+357 characters]",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Azure AI Foundry, which is <em>Microsoft[+255 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Columbia Seligman Global Technology Fund[+366 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The fund continued to hold an overweight[+216 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Microsoft</em> Corp. (<em>NASDAQ:MSFT</em>) the Best Tech Stock to Buy For Long-Term Investment?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "f95f2e03-7fc3-4904-9cd6-b9f738acbe76",
+            "title": "Market Recap: Stocks Inch Higher After Volatile Week of Tariff Turbulence",
+            "description": "The major U.S. stock indexes inched higher on Friday, April 11, 2025, as traders cautiously navigated the final trading session of what has been one of the",
+            "keywords": "",
+            "snippet": "Market Performance: Major Indexes Stabilize After Wild Swings\n\nThe major U.S. stock indexes inched higher on Friday, April 11, 2025, as traders cautiously navig...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/market-recap-stocks-inch-higher-after-volatile-week-of-tariff-turbulence/49255/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-04-11T18:29:16.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.431448,
+                    "sentiment_score": 0.4976,
+                    "highlights": [
+                        {
+                            "highlight": "Tech Sector: Mixed Performance Among Mar[+333 characters]",
+                            "sentiment": 0.8173,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Tech Earnings: Major tech companies repo[+213 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "67b39d58-4ac3-4d83-bd14-d32f490b9833",
+            "title": "Market Recap: Stocks Rebound Amid Ongoing Trade War Tensions",
+            "description": "U.S. stock markets are showing signs of recovery on Friday, April 11, 2025, following a tumultuous week dominated by trade war concerns. As of midday trading,",
+            "keywords": "",
+            "snippet": "Major Indexes Show Resilience After Volatile Week\n\nU.S. stock markets are showing signs of recovery on Friday, April 11, 2025, following a tumultuous week domin...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/market-recap-stocks-rebound-amid-ongoing-trade-war-tensions-april-11-2025/49254/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-04-11T18:02:18.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.395973,
+                    "sentiment_score": -0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Microsoft</em> (MSFT) is also up[+261 characters]",
+                            "sentiment": -0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}
